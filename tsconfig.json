@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "app/(authenticated)/(tabs)/home.js", "app/(authenticated)/(tabs)/invest.js", "app/(authenticated)/(tabs)/myAccount.js", "app/verify/[phone].js", "app/_layout.js", "app/help.js", "app/index.js", "app/login.js", "app/signup.js", "app/(authenticated)/(modals)/lock.js", "app/(authenticated)/(modals)/account.js", "components/SortableList/Config.js", "components/SortableList/Item.js", "components/SortableList/SortableList.js", "components/SortableList/Tile.js", "components/SortableList/WidgetList.js", "components/RoundBtn.js", "context/UserInactivity.js", "store/balanceStore.js", "store/mmkv-storage.js", "components/CustomHeader.js", "components/Dropdown.js", "app/(authenticated)/(tabs)/_layout.js"  ]
 }
